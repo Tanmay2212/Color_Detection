@@ -17,11 +17,6 @@ bash
 Copy code
 pip install opencv-python numpy webcolors
 Step 2: Clone the Repository
-Clone this repository to your local machine using the following command:
-
-bash
-Copy code
-git clone https://github.com/yourusername/color-detection.git
 Step 3: Navigate to the Project Directory
 Move into the project directory:
 
